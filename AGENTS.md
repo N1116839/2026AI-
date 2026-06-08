@@ -5,7 +5,7 @@
 專案名稱：2026AI大軍
 專案用途：依照 YT 教學建立 AI 派工系統
 主要工作目錄：G:\我的雲端硬碟\2026AI大軍
-GitHub repo：待建立（公開）
+GitHub repo：https://github.com/N1116839/2026AI-
 預設 branch：main
 
 ## Obsidian 對應筆記
@@ -19,7 +19,7 @@ Obsidian vault：由 Obsidian MCP 管理
 ## 工作桌 + 三個家
 
 - 工作桌：G:\我的雲端硬碟\2026AI大軍
-- GitHub：待建立
+- GitHub：https://github.com/N1116839/2026AI-
 - Obsidian：AI派工區/專案工作流程.md
 - Firebase：未使用
 
